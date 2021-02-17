@@ -134,7 +134,10 @@
 
 	/* 演習1 ここまで */
 
-	/* TODO: 演習2 以降は下記に自由に記入 */
+        /* TODO: 演習2 以降は下記に自由に記入 */
+        function add(){
+	    eqlNum.value = parseFloat(midNum[0].value) + parseFloat(midNum[1].value);
+	}
 
 	/* 演習の編集範囲 おわり */
 
